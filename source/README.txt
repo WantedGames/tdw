@@ -1,7 +1,7 @@
 License
 =======
 
-AssaultCube Reloaded, formerly AssaultCube Special Edition, is based on AssaultCube and is released under the same licence.
+The Domestic Wars is based on AssaultCube Reloaded and is released under the same licence.
 
 The AssaultCube source code is mainly based on the cube game/engine and uses the
 same license (z-lib like). See README_CUBEENGINE.txt
